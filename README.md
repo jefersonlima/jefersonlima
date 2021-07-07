@@ -19,6 +19,7 @@ https://www.udemy.com/share/101sTY2@FEdgVEtfQlMHdU9CBkhNfRRt/
 
 duração: 2 horas
 
+![Screenshot]()
 :white_check_mark: Testes de aplicações modernas com Cypress. 
 https://www.udemy.com/share/102lok2@FG5jfUtjWlAGdU9EC3JzfT1HSn1LYw==/
 
@@ -43,7 +44,7 @@ duração: 89,5 horas
 
 
 
-
+<!--
 
 **jefersonlima/jefersonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
