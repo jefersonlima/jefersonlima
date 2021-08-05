@@ -1,6 +1,6 @@
 ![Screenshot](site-em-construcao.png)
 
-
+<!--
 # um pouco sobre mim!
 
 trabalho a 3 anos como analista/desenvolvedor VBA.
@@ -49,7 +49,7 @@ duração: 18,5 horas
 https://www.udemy.com/share/101qTY2@PW1jfV5STFwIekZGEktnfj4=/
 
 duração: 89,5 horas
-<!--
+
 <!--
 
 **jefersonlima/jefersonlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
