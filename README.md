@@ -7,7 +7,7 @@ trabalho a 3,5 anos como analista/desenvolvedor VBA.
 
 Estou em processo de evolução, focando o ano 2021/2022 em estudo para uma futura migração para desenvolvimento WEB.
 
-Formado em redes de Conputadores na Universidade Uniderp, atualmente estou cursando o Curso em análise e desenvolvimento de sistemas na UFMS.
+Formado em redes de Computadores na Universidade Uniderp, atualmente estou cursando análise e desenvolvimento de sistemas na UFMS.
 
 ## Hard Skills
 
@@ -57,6 +57,14 @@ duração: 18,5 horas
 https://www.udemy.com/share/101qTY2@PW1jfV5STFwIekZGEktnfj4=/
 
 duração: 89,5 horas
+
+## Soft Skills
+
+Dedicado, 
+Responsável, 
+Comunicativo,
+Organizado.
+
 
 <!--
 
