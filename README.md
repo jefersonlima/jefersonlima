@@ -1,9 +1,9 @@
 <!--![Screenshot](site-em-construcao.png)-->
 
 
-# um pouco sobre mim!
+# Um pouco sobre mim!
 
-trabalho a 3,5 anos como analista/desenvolvedor VBA.
+Trabalho a 3,5 anos como analista/desenvolvedor VBA.
 
 Estou em processo de evolução, focando o ano 2021/2022 em estudo para uma futura migração para desenvolvimento WEB.
 
@@ -45,6 +45,11 @@ duração: 14 horas
 
 https://www.ibl-idiomas.com.br/#/
 
+:white_square_button: C# COMPLETO Programação Orientada a Objetos + Projetos
+
+https://www.udemy.com/share/101Wjk3@IlqTC57DZzGlGFfdkv2J-6KeU0qnKAKOvod-z7ZPAPJRqF_wOvtyCYFMH9ZftZOU/
+
+duração: 37 horas
 
 :white_square_button: Curso Angular, .net Core Web API e Angular Material. 
 
@@ -60,9 +65,12 @@ duração: 89,5 horas
 
 ## Soft Skills
 
-Dedicado, 
+Dedicado,
+
 Responsável, 
+
 Comunicativo,
+
 Organizado.
 
 
