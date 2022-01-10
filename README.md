@@ -1,15 +1,23 @@
-![Screenshot](site-em-construcao.png)
+<!--![Screenshot](site-em-construcao.png)-->
 
-<!--
+
 # um pouco sobre mim!
 
-trabalho a 3 anos como analista/desenvolvedor VBA.
+trabalho a 3,5 anos como analista/desenvolvedor VBA.
 
-Estou em processo de evolução, focando o ano 2021 em estudo para uma futura migração para desenvolvimento WEB.
+Estou em processo de evolução, focando o ano 2021/2022 em estudo para uma futura migração para desenvolvimento WEB.
 
-## Formação
+Formado em redes de Conputadores na Universidade Uniderp, atualmente estou cursando o Curso em análise e desenvolvimento de sistemas na UFMS.
+
+## Hard Skills
 
 ### Cursos recentes concluidos!
+
+:white_check_mark: Programação Orientada a Objetos utilizando a linguagem C#
+
+https://www.udemy.com/share/103qC43@rgaqqGvUyzJgkHPKprUG4PeaAWtNJpz9bl3lOjaxEoIccsHpJottiy-n9yEvZnR0/
+
+duração: 17 horas
 
 :white_check_mark: Programação em Python do básico ao avançado. 
 
