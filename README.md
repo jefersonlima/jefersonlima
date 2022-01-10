@@ -11,7 +11,7 @@ Formado em redes de Computadores na Universidade Uniderp, atualmente estou cursa
 
 ## Hard Skills
 
-### Cursos recentes concluidos!
+### Cursos concluidos!
 
 
 ![CSharp](https://user-images.githubusercontent.com/11639069/148758709-172d9bf8-bb67-4b90-90ca-9fa5c31f0e0c.gif)
