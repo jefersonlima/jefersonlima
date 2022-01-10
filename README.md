@@ -13,17 +13,25 @@ Formado em redes de Computadores na Universidade Uniderp, atualmente estou cursa
 
 ### Cursos recentes concluidos!
 
+
+![CSharp](https://user-images.githubusercontent.com/11639069/148758709-172d9bf8-bb67-4b90-90ca-9fa5c31f0e0c.gif)
+
 :white_check_mark: Programação Orientada a Objetos utilizando a linguagem C#
 
 https://www.udemy.com/share/103qC43@rgaqqGvUyzJgkHPKprUG4PeaAWtNJpz9bl3lOjaxEoIccsHpJottiy-n9yEvZnR0/
 
 duração: 17 horas
 
+![Python](https://user-images.githubusercontent.com/11639069/148760308-c1bc3835-49b6-4910-ba54-40c4c252b5df.gif)
+
+
 :white_check_mark: Programação em Python do básico ao avançado. 
 
 https://www.udemy.com/share/101sI62@Pm5gVGFfQlMHdU9CBmJNfT1tSn0=/
 
 duração: 63,5 horas
+
+![VSCode](https://user-images.githubusercontent.com/11639069/148759468-dc4d54e0-dced-4232-a34e-60abf5905308.gif)
 
 :white_check_mark: Produtividade com VSCode. 
 
@@ -40,6 +48,9 @@ https://www.udemy.com/share/102lok2@FG5jfUtjWlAGdU9EC3JzfT1HSn1LYw==/
 duração: 14 horas
 
 ### Cursos em andamentos!
+
+![English](https://user-images.githubusercontent.com/11639069/148761567-a507817f-70c6-44a4-be2e-1157cadf067e.gif)
+
 
 :white_square_button: Curso de idioma!(inglês) no Instituto Brasileiro de Línguas.
 
